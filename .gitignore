@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+# shared volumes
+sqlite/*
+!sqlite/.gitkeep

@@ -1,0 +1,9 @@
+version: "3.7"
+services:
+
+  n8n:
+    image: n8nio/n8n:0.24.0
+    ports:
+      - 5678:5678
+    volumes:
+      - "./sqlite:/root/.n8n/"
