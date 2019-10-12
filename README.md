@@ -8,4 +8,4 @@ This project uses n8n docker image and docker compose to run n8n locally.
 
 ## Setting it up
 
-Just run `docker-compose up -d` and head to [http://locahost:5678](http://locahost:5678)!
+Just run `docker-compose up -d` and head to [http://localhost:5678](http://localhost:5678)!
